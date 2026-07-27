@@ -1,6 +1,8 @@
 <div align="center">
 # .github
 
+<div align="center">
+
 ## SAT Limited
 SAT Limited is a forward-thinking technology company delivering innovative digital solutions, technology services, and creative systems for gaming communities and beyond. Established in 2026.
 
